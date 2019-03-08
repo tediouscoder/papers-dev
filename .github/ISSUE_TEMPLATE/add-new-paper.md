@@ -25,6 +25,5 @@ assignees: ''
 title: 
 url: 
 year: 
-month: 
 terms: 
 source:
