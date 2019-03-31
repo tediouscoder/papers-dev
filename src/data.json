@@ -52,14 +52,6 @@
 				"container"
 			],
 			"source": "EuroSys"
-		},
-		"This is a test 2": {
-			"url": "https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf",
-			"year": 2018,
-			"terms": [
-				"test"
-			],
-			"source": "Test"
 		}
 	}
 }
